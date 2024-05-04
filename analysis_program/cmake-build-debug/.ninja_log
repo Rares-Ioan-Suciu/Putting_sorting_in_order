@@ -1,0 +1,13 @@
+# ninja log v5
+2	196	1714821786057438749	CMakeFiles/analysis_program.dir/O(n^2).cpp.o	c5655de0741727af
+860	905	1714842238770188306	analysis_program	a4b72f2740152740
+1	247	1714842238110220924	CMakeFiles/analysis_program.dir/Non-comparison.cpp.o	2feb614e10f79711
+0	561	1714842238426205307	CMakeFiles/analysis_program.dir/data_generator.cpp.o	3e1543a7bef60623
+0	15	1714844020133523010	build.ninja	9ed4f312b70edead
+0	540	1714842238406206295	CMakeFiles/analysis_program.dir/main.cpp.o	98cdd73c4d3aaf7f
+1	13	1714571188952272559	CMakeFiles/analysis_program.dir/soting.cpp.o	a7dbec67cf28e5ec
+2	292	1714821786153438149	CMakeFiles/analysis_program.dir/introsort.cpp.o	44ad667c259279
+1	149	1714821786009439049	CMakeFiles/analysis_program.dir/timsort.cpp.o	82234a1c784597c5
+1	495	1714657158358634789	CMakeFiles/analysis_program.dir/memory_usage.cpp.o	f4276083a903cccc
+2	247	1714821786105438449	CMakeFiles/analysis_program.dir/O(nlogn).cpp.o	ce4f4f6ab1c7bbb6
+0	860	1714842238722190679	CMakeFiles/analysis_program.dir/sorting.cpp.o	7a315bb6fa0285ca
