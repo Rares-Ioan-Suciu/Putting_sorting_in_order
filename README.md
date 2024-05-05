@@ -5,10 +5,10 @@ The Sorting Algorithm Analyzer is a tool designed to analyze the performance of 
 
 This project was developed as a part of a research project during my Methods and Practices in Computer Science course in the first year of my Bachelor's Degree. The requirement of the project was to study sorting algorithms' behavior and performance.
 
-The project is composed of three parts:
--The tester (in C++) - which handles the menu, selecting algorithms and data distributions, calling the analyzer and the python script resposible with generating plots.
--The analyzer (in C++) - which is responsible with generating data, that keeps increasing until a maximum value given by the user and using a simple value, and running sorting algorithms recording their runtime into a specific csv file
--The graph_maker - a python script that is used to transform the csv files into beautfiul plots 
+The project is composed of three parts:  
+   -The tester (in C++) - which handles the menu, selecting algorithms and data distributions, calling the analyzer and the python script resposible with generating plots. 
+   -The analyzer (in C++) - which is responsible with generating data, that keeps increasing until a maximum value given by the user and using a simple value, and running sorting algorithms recording their runtime into a specific csv file.  
+   -The graph_maker - a python script that is used to transform the csv files into beautfiul plots.  
 
 ## Usage
 To use the Sorting Algorithm Analyzer, follow these steps:
@@ -35,12 +35,12 @@ To use the Sorting Algorithm Analyzer, follow these steps:
 3. **Selecting Sorting Algorithms**:
    - Choose from 12 sorting algorithms categorized as follows:
      - O(n^2): Bubble Sort, Selection Sort, Insertion Sort, Shell Sort.
-     - O(n log n): Quick Sort, Merge Sort, Heap Sort.
+     - O(nlogn): Quick Sort, Merge Sort, Heap Sort.
      - Non-comparison algorithms: Counting Sort, Radix Sort, Bucket Sort.
      - Hybrid algorithms: Introsort, Timsort.
 
 4. **Selecting Data Distributions**:
-   - Choose from seven types of data distribution:
+   - Choose from seven types of data distribution:  
      -Sorted - the integers are sorted,  
      -Reverse - same as above, but the data is sorted in reverse order,   
      -Unique - the integers are randomly ordered and there are no duplicates,  
@@ -55,8 +55,8 @@ To use the Sorting Algorithm Analyzer, follow these steps:
 Here are some examples of how to use the Sorting Algorithm Analyzer:
 
 - Analyzing the performance of Quick Sort on sorted data:
-- Analyzing the performance of Merge Sort on reverse data:
-Most important:
+- Analyzing the performance of Merge Sort on reverse data:  
+Most importantly:
 - Analyze and compare the performance of up to 12 sorting algorithms
 
 ## Output
